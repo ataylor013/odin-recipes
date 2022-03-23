@@ -1,0 +1,45 @@
+/* Home Page */
+
+* {
+    background-color: lightblue;
+}
+
+#page-name {
+    font-size: 48px;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    font-family: Cambria, sans-serif;
+    border-style: solid;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+#links {
+    text-align: center;
+    font-size: 40px;
+    list-style-type: none;
+    font-family: Cambria, sans-serif;
+}
+
+a:link {
+    color: rgb(59, 66, 170);
+    text-decoration: none;
+    font-size: 40px;
+    list-style-type: none;
+    font-family: Cambria,
+}
+
+a:visited {
+    color: none;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
